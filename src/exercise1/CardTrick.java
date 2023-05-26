@@ -66,6 +66,7 @@ private static int generateRandomNumber(int min, int max) {
      * replace this information with your own.
      * @author Ashima Ashima May 2023
      */
+    //I'm Done!
     private static void printInfo() {
     
         System.out.println("Congratulations, you guessed right!");
